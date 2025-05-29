@@ -5,6 +5,16 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     scroll-behavior: smooth
 }
+
+#a,
+#b,
+#c,
+#d,
+#e{
+    scroll-margin-top: 60px; 
+  }
+
+
 .nav-bar{
     min-width: 100%;
     height: 60px;
